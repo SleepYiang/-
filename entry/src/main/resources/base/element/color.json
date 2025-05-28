@@ -3,6 +3,46 @@
     {
       "name": "start_window_background",
       "value": "#FFFFFF"
+    },
+    {
+      "name": "background",
+      "value": "#BCCED9"
+    },
+    {
+      "name": "button_background",
+      "value": "#007DFF"
+    },
+    {
+      "name": "Line_Between",
+      "value": "#E8EAEB"
+    },
+    {
+      "name": "button_red",
+      "value": "#ff8280"
+    },
+    {
+      "name": "button_orange",
+      "value": "#ffb978"
+    },
+    {
+      "name": "button_yellow",
+      "value": "#f0eb6e"
+    },
+    {
+      "name": "button_green",
+      "value": "#85ff85"
+    },
+    {
+      "name": "button_cyan",
+      "value": "#89f1f5"
+    },
+    {
+      "name": "button_blue",
+      "value": "#8c9dff"
+    },
+    {
+      "name": "button_purple",
+      "value": "#c39cff"
     }
   ]
 }
