@@ -11,7 +11,6 @@ export struct MainPage {
                 .textAlign(TextAlign.Center)
                 .width("100%")
               Image($r("app.media.ic_public_themes"))
-
                 .width(25)
                 .height(25)
                 .margin({right:10})
@@ -19,8 +18,21 @@ export struct MainPage {
           }
           .width("100%")
           .height(40)
+        .margin({top:15})
+        Row(){
+
         }
+        Row(){
+
+        }
+        Column(){
+
+        }
+        .layoutWeight(1)
+      }
+        .backgroundColor($r("app.color.background"))
         .width("100%")
         .height("100%")
+
       }
   }
