@@ -1,6 +1,6 @@
 @Entry
 @Component
-export struct MainPage {
+struct AddPage {
   build() {
 
   }
