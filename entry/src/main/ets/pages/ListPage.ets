@@ -1,3 +1,5 @@
+import { router } from "@kit.ArkUI"
+
 @Entry
 @Component
 export struct MainPage {
@@ -14,6 +16,11 @@ export struct MainPage {
                 .width(25)
                 .height(25)
                 .margin({right:10})
+                .onClick(()=>{
+                  router.pushUrl({
+                    url:'pages/ThemePage'
+                  })
+                })
              }
           }
           .width("100%")
