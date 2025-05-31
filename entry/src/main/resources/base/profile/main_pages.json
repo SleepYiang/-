@@ -2,6 +2,7 @@
   "src": [
     "pages/Index",
     "pages/ListPage",
-    "pages/AddPage"
+    "pages/AddPage",
+    "pages/ThemePage"
   ]
 }
