@@ -1,3 +1,5 @@
+import { router } from "@kit.ArkUI"
+
 @Entry
 @Component
 export struct ThemePage {
@@ -13,7 +15,9 @@ export struct ThemePage {
             Image($r('app.media.ic_public_back'))
               .width(25)
               .height(25)
-
+              .onClick(()=>{
+                router.back()
+              })
           }
           .margin({left:10,right:10})
         }
