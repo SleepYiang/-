@@ -10,7 +10,171 @@
     },
     {
       "name": "EntryAbility_label",
-      "value": "label"
+      "value": "TodoList"
+    },
+    {
+      "name": "Add_task",
+      "value": "Add Task"
+    },
+    {
+      "name": "enter_task_content",
+      "value": "Please enter the task content"
+    },
+    {
+      "name": "submit",
+      "value": "Submit"
+    },
+    {
+      "name": "not_empty",
+      "value": "The task content cannot be empty"
+    },
+    {
+      "name": "delete",
+      "value": "Delete !!!"
+    },
+    {
+      "name": "sure_delete",
+      "value": "Are you sure you want to delete it?"
+    },
+    {
+      "name": "yes",
+      "value": "Yes"
+    },
+    {
+      "name": "no",
+      "value": "No"
+    },
+    {
+      "name": "my_task",
+      "value": "My Task"
+    },
+    {
+      "name": "all",
+      "value": "All"
+    },
+    {
+      "name": "todo",
+      "value": "Todo"
+    },
+    {
+      "name": "finish",
+      "value": "Finish"
+    },
+    {
+      "name": "task_progress",
+      "value": "Task Progress"
+    },
+    {
+      "name": "welcome",
+      "value": "Welcome to TodoList"
+    },
+    {
+      "name": "no_task",
+      "value": "No task, Please add the first ！"
+    },
+    {
+      "name": "cancel_changes",
+      "value": "Cancel changes"
+    },
+    {
+      "name": "change_theme",
+      "value": "Change theme"
+    },
+    {
+      "name": "prompt",
+      "value": "Prompt"
+    },
+    {
+      "name": "sure_change_theme",
+      "value": "Are you sure you want to change the theme?"
+    },
+    {
+      "name": "cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "confirm",
+      "value": "Confirm"
+    },
+    {
+      "name": "default",
+      "value": "default"
+    },
+    {
+      "name": "pink",
+      "value": "pink"
+    },
+    {
+      "name": "grey",
+      "value": "grey"
+    },
+    {
+      "name": "orange",
+      "value": "orange"
+    },
+    {
+      "name": "green",
+      "value": "green"
+    },
+    {
+      "name": "blue",
+      "value": "blue"
+    },
+    {
+      "name": "purple",
+      "value": "purple"
+    },
+    {
+      "name": "red",
+      "value": "red"
+    },
+    {
+      "name": "yellow",
+      "value": "yellow"
+    },
+    {
+      "name": "cyan",
+      "value": "cyan"
+    },
+    {
+      "name": "white",
+      "value": "white"
+    },
+    {
+      "name": "more",
+      "value": "more..."
+    },
+    {
+      "name": "advertisement",
+      "value": "TodoList,Make life easy ~"
+    },
+    {
+      "name": "change_text",
+      "value": "Change Text"
+    },
+    {
+      "name": "sure_change_text",
+      "value": "Are you sure change text?"
+    },
+    {
+      "name": "change_succeeded",
+      "value": "Change is successful and takes effect after restart"
+    },
+    {
+      "name": "task_content",
+      "value": "Task content :"
+    },
+    {
+      "name": "create_time",
+      "value": "Create time :"
+    },
+    {
+      "name": "click_modify",
+      "value": "Click Modify"
+    },
+    {
+      "name": "importance",
+      "value": "Importance Degree "
     }
   ]
 }
