@@ -26,11 +26,17 @@ export struct MainPage {
           .width("100%")
           .height(40)
         .margin({top:15})
+        //三个按钮可选项
+           Row(){
+            Column(){
+              Text($r('app.string.all'))
+                .fontSize(20)
+            }
+          }
         Row(){
+          Column(){
 
-        }
-        Row(){
-
+          }
         }
         Column(){
           //待办事项的列表

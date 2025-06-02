@@ -1,5 +1,4 @@
 import { router } from "@kit.ArkUI"
-
 @Entry
 @Component
 export struct ThemePage {
