@@ -1,4 +1,4 @@
-import { router } from "@kit.ArkUI"
+import { promptAction, router } from "@kit.ArkUI"
 @Entry
 @Component
 export struct ThemePage {
@@ -20,16 +20,27 @@ export struct ThemePage {
             .width(30)
             .fillColor(Color.Black)
             .onClick(()=>{
-                this.confirmDialog()
-            })
 
+            })
         }
-        .margin({left:10,right:10})
+        .margin(10)
         .width("100%")
 
+      Row({ space: 20 }) {
+        //默认
+        Column(){
 
+        }
+        .width(60)
+        .height(60)
+        .backgroundColor(Color.White)
+        //粉色
+        Column(){
 
-
+        }
+        .width(60)
+        .height(60)
+        .backgroundColor(Color.White)
     }
     .width("100%")
     .height("100%")
@@ -39,13 +50,5 @@ export struct ThemePage {
 
   }
 
-
-
-
-  //弹窗消息
-  confirmDialog(){
-      AlertDialog.show({
-        message:'确认'
-      })
   }
 }
